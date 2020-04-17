@@ -1,2 +1,0 @@
-# LoginReact
-Created with CodeSandbox
